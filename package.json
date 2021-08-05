@@ -1,0 +1,22 @@
+{
+  "name": "internship-sunflux",
+  "version": "1.0.0",
+  "description": "## Prerequisite - Create account on github and login to it `https://github.com/`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MJKruszewski/internship-sunflux.git"
+  },
+  "authors": [
+    "Maciej Kruszewski",
+    "Krzysztof Braslki"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MJKruszewski/internship-sunflux/issues"
+  },
+  "homepage": "https://github.com/MJKruszewski/internship-sunflux#readme"
+}
