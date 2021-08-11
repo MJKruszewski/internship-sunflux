@@ -44,3 +44,6 @@ https://www.w3schools.com/js/js_loop_for.asp
 https://www.w3schools.com/js/js_loop_while.asp
 ```
 - Try to create your own loops, one with for, second with while - for now it should be just simple counting
+
+## #3 Lets code!
+- todo
